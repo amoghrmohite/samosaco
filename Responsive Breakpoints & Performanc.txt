@@ -1,0 +1,14 @@
+Responsive Breakpoints & Performance Optimization
+
+Mobile: < 640px (fully optimized)
+Tablet: 640px - 1024px (adaptive layouts)
+Desktop: > 1024px (full features)
+
+
+Performance Optimizations
+
+Lazy loading for images
+Optimized CSS with Tailwind
+Minified JavaScript
+Proper image sizing and formats
+Fast loading times

@@ -1,0 +1,22 @@
+Website Structure
+
+wholesale-samosas-website/
+├── index.html                    # Main website file
+├── assets/
+│   ├── images/                   # All image assets
+│   │   ├── hero/                 # Hero section images
+│   │   ├── products/             # Product images
+│   │   ├── process/              # Production process images
+│   │   └── packaging/            # Packaging images
+│   ├── css/
+│   │   └── custom.css            # Additional custom styles
+│   └── js/
+│       └── main.js               # Additional JavaScript
+├── content/                      # Editable content sections
+│   ├── home-content.md           # Home page copy
+│   ├── products.md               # Product descriptions
+│   ├── process.md                # Production process details
+│   ├── packaging.md              # Packaging specifications
+│   ├── about.md                  # About/values content
+│   └── contact.md                # Contact information
+└── README.md                     # Setup and editing instructions

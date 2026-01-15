@@ -1,0 +1,22 @@
+Image Assets Implementation
+
+Hero Images (replace placeholder images):
+hero-main.jpg - Main hero image of samosas
+hero-process.jpg - Production facility image
+
+Product Images (4 varieties):
+product-classic-vegetable.jpg
+product-spicy-lamb.jpg
+product-spinach-cheese.jpg
+product-chicken-tikka.jpg
+
+Process Images:
+process-ingredients.jpg
+process-production.jpg
+process-packaging.jpg
+process-quality.jpg
+
+Packaging Images:
+packaging-retail.jpg
+packaging-catering.jpg
+packaging-pallet.jpg

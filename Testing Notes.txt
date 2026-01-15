@@ -1,0 +1,10 @@
+Testing Notes:
+
+Browser Testing Checklist
+
+Chrome (latest): Done
+Firefox (latest): Done
+Safari (latest): Done
+Edge (latest): Done
+Mobile Safari (iOS): Done
+Chrome for Android: Done

@@ -1,0 +1,9 @@
+CMS/Editing Notes
+
+The website is built with clear section comments and organized structure for easy editing:
+
+To edit text content: Look for the relevant section in the HTML file
+To update images: Replace the src attributes with your image URLs
+To change colors: Modify the Tailwind config in the <head> section
+To add new products: Add to the products array in the JavaScript section
+To update contact info: Modify the contact section in the HTML
